@@ -848,6 +848,7 @@ export default function OSSimulatorApp(){
 
         <footer className="text-xs text-slate-500 mt-4">
            © Abdur Rob Mridha | 2025
+           Born to live
         </footer>
       </div>
     </div>
