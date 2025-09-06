@@ -847,7 +847,7 @@ export default function OSSimulatorApp(){
         {tab==="File System" && <FileSystemToy/>}
 
         <footer className="text-xs text-slate-500 mt-4">
-           © Abdur Rob Mridha | 2025
+           © Abdur Rob Mridha | 2025 <hr />
            Born to live
         </footer>
       </div>
